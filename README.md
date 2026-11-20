@@ -8,7 +8,7 @@ It is built for students and for faculty in any discipline, including those who 
 
 > 🚧 **Work in progress.** This is an early version and feedback is very welcome. Use the **Help us improve** button at the bottom of the lab, or [open an issue](../../issues).
 
-**▶ Try it:** https://claude.ai/artifact/RpdPRZW5AKZgvs9Mv4AMHF
+**▶ Try it:** https://raafatzaini.github.io/dynamic-systems-lab/
 
 ![Dynamic Systems Lab](og-image.png)
 
@@ -59,7 +59,7 @@ Turn on the 🔈 button to hear the story captions. English uses recorded clips 
 ## Run it locally
 
 ```bash
-git clone https://github.com/<your-username>/dynamic-systems-lab.git
+git clone https://github.com/raafatzaini/dynamic-systems-lab.git
 cd dynamic-systems-lab
 python3 -m http.server 8000
 # open http://localhost:8000
@@ -71,7 +71,7 @@ Opening `index.html` directly from disk also works. Recorded narration needs a l
 
 1. Push these files to a public repository.
 2. Go to **Settings → Pages → Build and deployment**, choose **Deploy from a branch**, then **main** and **/ (root)**.
-3. The site appears at `https://<your-username>.github.io/dynamic-systems-lab/` within a minute or two.
+3. The site appears at https://raafatzaini.github.io/dynamic-systems-lab/ within a minute or two.
 
 ## Feedback and contributions
 
