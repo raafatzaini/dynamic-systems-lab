@@ -38,7 +38,9 @@ Each situation runs through five steps:
 
 ## Areas
 
-Everyday · Energy · Environment · Manufacturing · Biotechnology · Human body · Computing · Public interest technology · National security · Geography · Business · Economics · Psychology · Education · *Your own system* (custom labels)
+Aerospace · Biotechnology · Business · Computing · Economics · Education · Energy · Environment · Everyday · Geography · Human body · Law · Manufacturing · National security · Project management · Psychology · Public interest technology · Strategy · *Your own system* (custom labels)
+
+The area buttons are sorted alphabetically in whichever language is selected.
 
 ## Languages
 
